@@ -1,0 +1,79 @@
+.background{
+	    background: url(../img/pexels-photo-326311.jpeg);
+	    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+		width: 500px;
+		margin: 10% auto;
+}
+.login-section{
+    background-color: grey;
+}
+.login-section h2{
+    color: wheat;
+    text-align: center;
+}
+.login-section img{
+    width: 70px;
+    height: 70px;
+    display: block;
+    margin: 0 auto;
+}
+.Fc{
+width: 97%;
+    height: 28px;
+    padding: 8px 6px;
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: red;
+    padding: 8px 29px;
+    border: black solid;
+    font-size: 20px;
+    text-transform: uppercase;
+    box-shadow: 8px 10px 9px white;
+}
+.link{
+	font-size: 24px;
+}
+.R
+{
+	text-align: center;
+	color: wheat;
+}
+.reg{
+	background: url(../img/pexels-photo-769347.jpeg);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.register
+{
+width: 100%;
+ margin-bottom: 15px;
+}
+.sub{
+	background-color: gold;
+    border: black;
+
+}
+.box{
+	width: 500px;
+		margin: 10% auto;
+}
+.b{
+	background-color: white;
+}
+.f{
+	background-color: grey;
+	width: 500px;
+		margin: 10% auto;
+		height: 100px;
+}
+.E{
+    width: 300px;
+    margin-bottom: 15px;
+}
